@@ -1,5 +1,5 @@
 {
-  "ingredientPattern": "_P_,PSP,_P_",
+  "ingredientPattern": "P_P,_S_,P_P",
   "width": 3,
   "height": 3,
   "ingredients": {
