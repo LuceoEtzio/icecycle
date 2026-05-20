@@ -1,0 +1,20 @@
+{
+  "ingredientPattern": "S,B",
+  "width": 1,
+  "height": 2,
+  "ingredients": {
+    "S": {
+      "type": "item",
+      "code": "game:stick"
+    },
+    "B": {
+      "type": "item",
+      "code": "icesawblade"
+    }
+  },
+  "output": {
+    "type": "item",
+    "code": "icesaw",
+    "quantity": 1
+  }
+}

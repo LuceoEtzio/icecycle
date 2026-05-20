@@ -1,0 +1,16 @@
+[
+  {
+    "file": "game:blocktypes/liquid/glacierice-meltable",
+    "op": "replace",
+    "path": "/creativeinventory/general",
+    "value": ["*"],
+    "side": "server"
+  },
+  {
+    "file": "game:blocktypes/liquid/glacierice-meltable",
+    "op": "replace",
+    "path": "/creativeinventory/terrain",
+    "value": ["*"],
+    "side": "server"
+  }
+]

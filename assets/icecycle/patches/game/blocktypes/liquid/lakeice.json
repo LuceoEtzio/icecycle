@@ -1,0 +1,17 @@
+[
+  {
+    "file": "game:blocktypes/liquid/lakeice",
+    "op": "addmerge",
+    "path": "/drops/-",
+    "value": {
+      "type": "block",
+      "code": "lakeice",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "tool": "saw"
+    },
+    "side": "server"
+  }
+]

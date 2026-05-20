@@ -1,0 +1,21 @@
+{
+  "ingredientPattern": "_P_,PSP,_P_",
+  "width": 3,
+  "height": 3,
+  "ingredients": {
+    "P": {
+      "type": "block",
+      "code": "game:ice-packedglacier"
+    },
+    "S": {
+      "type": "item",
+      "tags": ["tool-saw"],
+      "isTool": true
+    }
+  },
+  "output": {
+    "type": "item",
+    "code": "icesawblade",
+    "quantity": 1
+  }
+}

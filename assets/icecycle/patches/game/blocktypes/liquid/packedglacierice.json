@@ -1,0 +1,33 @@
+[
+  {
+    "file": "game:blocktypes/liquid/packedglacierice",
+    "op": "replace",
+    "path": "/drops/0",
+    "value": {
+      "type": "block",
+      "code": "packedglacierice",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "tool": "saw",
+      "lastDrop": true
+    },
+    "side": "server"
+  },
+  {
+    "file": "game:blocktypes/liquid/packedglacierice",
+    "op": "addmerge",
+    "path": "/drops/-",
+    "value": {
+      "type": "block",
+      "code": "ice-packedglacier",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "lastDrop": true
+    },
+    "side": "server"
+  }
+]

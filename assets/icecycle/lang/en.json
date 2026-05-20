@@ -1,0 +1,9 @@
+{
+  "game:block-glacierice": "Glacier ice (unmelting)",
+  "game:block-packedglacierice": "Packed glacier ice (unmelting)",
+
+  "item-icesaw": "Ice saw",
+  "itemdesc-icesaw": "Perfect for sawing ice! Probably not useful for anything else...",
+  "item-icesawblade": "Ice saw blade",
+  "itemdesc-icesawblade": "Wait, you made this how?"
+}

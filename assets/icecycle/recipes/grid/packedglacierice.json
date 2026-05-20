@@ -1,0 +1,41 @@
+[
+  {
+    "ingredientPattern": "SP",
+    "width": 1,
+    "height": 2,
+    "recipeGroup": 1,
+    "shapeless": true,
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "icesaw",
+        "isTool": true
+      },
+      "P": {
+        "type": "block",
+        "code": "game:ice-packedglacier"
+      }
+    },
+    "output": {
+      "type": "block",
+      "code": "game:packedglacierice"
+    }
+  },
+  {
+    "ingredientPattern": "GG",
+    "width": 2,
+    "height": 1,
+    "recipeGroup": 2,
+    "shapeless": true,
+    "ingredients": {
+      "G": {
+        "type": "block",
+        "code": "game:glacierice"
+      }
+    },
+    "output": {
+      "type": "block",
+      "code": "game:packedglacierice"
+    }
+  }
+]

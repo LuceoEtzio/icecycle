@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "icecycle",
+  "name": "Ice Cycle",
+  "description" : "Ice-based utilities, for the discerning human popsicle",
+  "authors": ["Luceo"],
+  "version": "1.0.0",
+  "dependencies": { 
+	"game": "1.22.0"
+  }
+}
