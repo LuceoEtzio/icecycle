@@ -4,7 +4,7 @@
   "name": "Ice Cycle",
   "description" : "Ice-based utilities, for the discerning human popsicle",
   "authors": ["Luceo"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": { 
 	"game": "1.22.0"
   }
