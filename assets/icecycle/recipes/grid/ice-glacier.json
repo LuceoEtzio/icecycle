@@ -3,7 +3,7 @@
     "ingredientPattern": "LL",
     "width": 2,
     "height": 1,
-    "shapeless": true,
+    "shapeless": false,
     "recipeGroup": 1,
     "ingredients": {
       "L": {
@@ -38,7 +38,7 @@
     "width": 1,
     "height": 2,
     "recipeGroup": 1,
-    "shapeless": true,
+    "shapeless": false,
     "ingredients": {
       "S": {
         "type": "item",

@@ -1,16 +1,22 @@
 {
-  "ingredientPattern": "P_P,_S_,P_P",
+  "ingredientPattern": "_H_,_C_,_I_",
   "width": 3,
   "height": 3,
   "ingredients": {
-    "P": {
-      "type": "block",
-      "code": "game:ice-packedglacier"
-    },
-    "S": {
+    "H": {
       "type": "item",
-      "tags": ["tool-saw"],
+      "tags": ["tool-hammer"],
       "isTool": true
+    },
+    "C": {
+      "type": "item",
+      "tags": ["tool-chisel"],
+      "isTool": true
+    },
+    "I": {
+      "type": "block",
+      "code": "game:ice-packedglacier",
+      "quantity": 4
     }
   },
   "output": {
